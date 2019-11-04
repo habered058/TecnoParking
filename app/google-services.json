@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081964946091",
+    "firebase_url": "https://colegio-c17e7.firebaseio.com",
+    "project_id": "colegio-c17e7",
+    "storage_bucket": "colegio-c17e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081964946091:android:c90dec6ef74f5188a2cdee",
+        "android_client_info": {
+          "package_name": "hbm.cpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081964946091-2bc4rjeqmmmmc74452rvl3rniav136tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hbm.cpapp",
+            "certificate_hash": "51dfd7d5733ea0f1131e260afc8ef6532d7351a1"
+          }
+        },
+        {
+          "client_id": "1081964946091-j6en9r30angi4173nqmd32e4kbk17g9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMHzqpz16fnKDNqblR1bAdJrpatRd-Xoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081964946091-j6en9r30angi4173nqmd32e4kbk17g9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
